@@ -102,7 +102,7 @@ export const table = [
   {
     pinyin: "pao",
     russian: "пао",
-    armenian: "փաո",
+    armenian: "փաու",
   },
   {
     pinyin: "pie",
@@ -187,7 +187,7 @@ export const table = [
   {
     pinyin: "mao",
     russian: "мао",
-    armenian: "մաո",
+    armenian: "մաու",
   },
   {
     pinyin: "mie",
