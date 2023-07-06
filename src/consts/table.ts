@@ -362,7 +362,7 @@ export const table = [
   {
     pinyin: "duan",
     russian: "дуань",
-    armenian: "տուեն",
+    armenian: "տուան",
   },
   {
     pinyin: "dui",
@@ -477,7 +477,7 @@ export const table = [
   {
     pinyin: "tuan",
     russian: "туань",
-    armenian: "թուեն",
+    armenian: "թուան",
   },
   {
     pinyin: "tui",
@@ -582,7 +582,7 @@ export const table = [
   {
     pinyin: "nuan",
     russian: "нуань",
-    armenian: "նուեն",
+    armenian: "նուան",
   },
   {
     pinyin: "nong",
@@ -702,7 +702,7 @@ export const table = [
   {
     pinyin: "luan",
     russian: "луань",
-    armenian: "լուեն",
+    armenian: "լուան",
   },
   {
     pinyin: "long",
