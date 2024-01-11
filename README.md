@@ -1,46 +1,8 @@
 # Li Bai
 
-This template should help get you started developing with Vue 3 in Vite.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Website link](https://img.shields.io/website?url=https%3A%2F%2Fli-bai.web.app%2F&logoColor=white&label=Li%20Bai&labelColor=black)](https://li-bai.web.app)
 
-## Recommended IDE Setup
+This project is a web-based tool that allows users to convert Mandarin Chinese pinyin into Armenian based on my own transcription scheme. It’s meant to be a system for *transcription* rather than exact, unambiguous *transliteration*. The Armenian script cannot handle tone marks or other diacritics, and in general it wouldn’t be used for linguistic or scientific work.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
-
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-  1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-  2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+I wrote this in an afternoon for a class project, so it’s rather basic at the moment. Notably it’s missing [*érhuà*](https://en.wikipedia.org/wiki/Erhua), which is included in my transcription scheme. I may come back to finish it off when I get a round tuit, but those are in painfully short supply right now.
